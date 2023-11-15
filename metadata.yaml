@@ -1,11 +1,16 @@
 _repo: Balloon-observation-and-instructions-b-on-the-subject-of-work-in-the-basket_71934
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71934-h/images/cover.jpg
 creator:
   author:
     agent_name: Aeronautics, U.S. Army Division of Military
     gutenberg_agent_id: '56464'
     url: http://www.gutenberg.org/2009/agents/56464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71934#Balloon-observation-and-instructions-b-on-the-subject-of-work-in-the-basket
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71934'
